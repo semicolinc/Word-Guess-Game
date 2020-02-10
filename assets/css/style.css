@@ -1,0 +1,41 @@
+.container header {
+    border: 3px solid black;
+    margin: 15px auto;
+    text-align: center;
+    font-size: 3vw;
+    width: 80%;
+    height: 150px;
+    line-height: 150px;   
+}
+
+
+div #underscore {
+    border: 3px solid black;
+    margin: 15px auto;
+    text-align: center;
+    font-size: 3vw;
+    width: 80%;
+    height: 150px;
+    line-height: 150px;  
+}
+
+#recentGuess {
+    border: 3px solid black;
+    margin: 15px auto;
+    text-align: center;
+    font-size: 3vw;
+    width: 80%;
+    height: 150px;
+    line-height: 150px;
+    display: block;
+}
+
+div #wrongGuess {
+    border: 3px solid black;
+    margin: 15px auto;
+    text-align: center;
+    font-size: 3vw;
+    width: 80%;
+    height: 150px;
+    line-height: 150px;
+}
