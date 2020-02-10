@@ -1,8 +1,13 @@
+*{
+    background-image: url(../images/email-pattern.png);
+}
+
 .container header {
     border: 3px solid black;
     margin: 15px auto;
     text-align: center;
-    font-size: 3vw;
+    font-size: 5vw;
+    font-style: bold;
     width: 80%;
     height: 150px;
     line-height: 150px;   

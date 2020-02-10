@@ -61,8 +61,9 @@ $(document).ready(function(){
                 }
                 // Checking if the game is over
                 if (remainingLetters === 0){
+                    var victoryMusic = new Audio("assets/audio/victory-music.mp3");
+                    victoryMusic.play();
                     alert("Congratulations, for you have won! Refresh to play again.");
-                    
                 }
             }
         }
